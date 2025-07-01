@@ -18,10 +18,12 @@
 
 💡 Let’s connect, collaborate, or just nerd out together!
 
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=transparent" /><img height=200 align="center" src="https://streak-stats.demolab.com?user=pragnyanramtha&theme=transparent" />
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/streak-stats">
+</a><a href="https://github.com/anuraghazra/streak-stats">
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=pragnyanramtha&theme=transparent" />
 </a>
 
