@@ -19,12 +19,12 @@
 💡 Let’s connect, collaborate, or just nerd out together!
 
 
-<div align="center" dir="auto">
+<div align="left" dir="auto">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img style="max-width: 100%;" height=200 src="https://github-readme-stats.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/streak-stats">
-  <img style="max-width: 100%;" height=200 src="https://streak-stats.demolab.com?user=pragnyanramtha&theme=transparent" />
+  <img style="max-width: 90%;" height=200 src="https://streak-stats.demolab.com?user=pragnyanramtha&theme=transparent" />
 </a>
 </div>
 
