@@ -21,9 +21,9 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="max-width: 100%;" height=150 src="https://github-readme-stats.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=transparent" />
+  <img style="max-width: 100%;" height=175 src="https://github-readme-stats.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=transparent" />
 </a><a href="https://github.com/anuraghazra/streak-stats">
-  <img style="max-width: 90%;" height=150 src="https://streak-stats.demolab.com?user=pragnyanramtha&theme=transparent" />
+  <img style="max-width: 100%;" height=175 src="https://streak-stats.demolab.com?user=pragnyanramtha&theme=transparent" />
 </a>
 
 
@@ -32,10 +32,8 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pragnyanramtha&theme=transparent&show_icons=true"/>
-&nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragnyanramtha&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragnyanramtha&layout=compact&theme=transparent&border_radius=4.5)
 
 
 
