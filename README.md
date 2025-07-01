@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Pragnyan Ramtha
+# 👋 This is Pragnyan Ramtha
+‎ ‎ ‎ ‎ ‎ 
+‎ 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+AI+that+matters.;I+USE+ARCH,+BTW!;Graph+Neurals+Networks+are+kinda+cool!;Tutorial+Hell+refugee+on+github.;Living+on+Linux+and+late+night+code.;Trying+to+prove+a+point.;Learning+is+not+that+hard,+actually.;Hoping+my+projects+dont+end+up+on+github.&center=false&width=500&height=50)
 
 🧠 17 y/o endlessly curious learner | Builder of futuristic tech  
 🧩 I thrive at the edge of AI, math, and physics  
@@ -15,9 +18,13 @@
 
 💡 Let’s connect, collaborate, or just nerd out together!
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+AI+that+gets+you.;Graph+Neural+Nets+FTW!;Living+on+Linux+and+late+night+code.&center=true&width=500&height=50)
+![Pragnyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com?user=pragnyanramtha&theme=radical)](https://git.io/streak-stats)
 
-<img src="https://github.com/user-attachments/assets/9366319e-1dc8-4d20-a57e-636ff9a94190" width="300">
 
-![Pragnyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=pragnyanramtha&theme=radical)](https://git.io/streak-stats)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pragnyanramtha&bg_color=000000&color=4c6c9e&line=0033ff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
