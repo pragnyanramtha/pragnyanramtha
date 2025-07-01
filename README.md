@@ -21,9 +21,9 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="max-width: 100%;" height=175 src="https://github-readme-stats.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=transparent" />
+  <img style="max-width: 100%;" height=170 src="https://github-readme-stats.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=transparent" />
 </a><a href="https://github.com/anuraghazra/streak-stats">
-  <img style="max-width: 100%;" height=175 src="https://streak-stats.demolab.com?user=pragnyanramtha&theme=transparent" />
+  <img style="max-width: 100%;" height=170 src="https://streak-stats.demolab.com?user=pragnyanramtha&theme=transparent" />
 </a>
 
 
