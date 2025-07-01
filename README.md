@@ -19,21 +19,21 @@
 💡 Let’s connect, collaborate, or just nerd out together!
 
 
-<div align="left" dir="auto">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="max-width: 100%;" height=200 src="https://github-readme-stats.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=transparent" />
+  <img style="max-width: 100%;" height=190 src="https://github-readme-stats.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=transparent" />
+</a><a href="https://github.com/anuraghazra/streak-stats">
+  <img style="max-width: 90%;" height=190 src="https://streak-stats.demolab.com?user=pragnyanramtha&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/streak-stats">
-  <img style="max-width: 90%;" height=200 src="https://streak-stats.demolab.com?user=pragnyanramtha&theme=transparent" />
-</a>
-</div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pragnyanramtha&bg_color=000000&color=4c6c9e&line=0033ff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pragnyanramtha&theme=transparent&show_icons=true"/>
+&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragnyanramtha&layout=compact&theme=transparent)
 
