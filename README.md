@@ -14,3 +14,5 @@
 🎯 Mission: Turn curiosity into innovation that matters
 
 💡 Let’s connect, collaborate, or just nerd out together!
+
+![image](https://github.com/user-attachments/assets/9366319e-1dc8-4d20-a57e-636ff9a94190)
