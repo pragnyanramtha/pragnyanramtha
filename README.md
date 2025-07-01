@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @pragnyanramtha
-- 👀 I’m interested in Math,Phy and coooooode
-- 🌱 I’m currently learning to live
-- 💞️ I’m looking to collaborate on AI?
-- 📫 How to reach me Pragnyan.work@gmail.com
-- 😄 Pronouns: HE/Him
-- ⚡ Fun fact: There are more trees on earth than stars in milky way
+# 👋 Hi, I'm Pragnyan Ramtha
 
-<!---
-pragnyanramtha/pragnyanramtha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 17 y/o endlessly curious learner | Builder of futuristic tech  
+🧩 I thrive at the edge of AI, math, and physics  
+🧬 Currently building:
+  - 🌐 A social platform on ICP blockchain  
+  - 🧠 A graph neural network on knowledge graphs  
+  - 🧬 A bye latent transformer  
+  - 🤖 A personality-cloning AI that adapts to users  
+
+📚 Love deep research, self-learning, and questioning everything  
+⚙️ Linux enthusiast | Pythonic thinker | Minimalist coder  
+🚀 Always building, breaking, and reimagining what's possible  
+🎯 Mission: Turn curiosity into innovation that matters
+
+💡 Let’s connect, collaborate, or just nerd out together!
