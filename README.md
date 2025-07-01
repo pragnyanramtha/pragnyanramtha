@@ -5,7 +5,7 @@
 🧬 Currently building:
   - 🌐 A social platform on ICP blockchain  
   - 🧠 A graph neural network on knowledge graphs  
-  - 🧬 A bye latent transformer  
+  - 🧬 A blt latent transformer  
   - 🤖 A personality-cloning AI that adapts to users  
 
 📚 Love deep research, self-learning, and questioning everything  
