@@ -21,12 +21,11 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="max-width: 100%;" height=170 src="https://github-readme-stats.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=transparent" />
-</a><a href="https://github.com/anuraghazra/streak-stats">
-  <img style="max-width: 100%;" height=170 src="https://streak-stats.demolab.com?user=pragnyanramtha&theme=transparent" />
+  <img height=170 src="https://github-readme-stats.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=transparent" />
 </a>
-
-
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pragnyanramtha&theme=github-dark-blue" alt="GitHub Streak" />
+</a>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pragnyanramtha&bg_color=000000&color=4c6c9e&line=0033ff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
