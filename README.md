@@ -1,7 +1,5 @@
 # 👋 This is Pragnyan Ramtha
-‎ ‎ ‎ ‎ ‎ 
-‎ 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+AI+that+matters.;I+USE+ARCH,+BTW!;Graph+Neurals+Networks+are+kinda+cool!;Tutorial+Hell+refugee+on+github.;Living+on+Linux+and+late+night+code.;Trying+to+prove+a+point.;Learning+is+not+that+hard,+actually.;Hoping+my+projects+dont+end+up+on+github.&center=false&width=500&height=50&center=true&vCenter=true)
+
 
 🧠 17 y/o endlessly curious learner | Builder of futuristic tech  
 🧩 I thrive at the edge of AI, math, and physics  
