@@ -25,9 +25,8 @@
 </a>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pragnyanramtha&theme=github-dark-blue" alt="GitHub Streak" />
+  <img height=170 src="https://github-readme-streak-stats-eight.vercel.app?user=pragnyanramtha&theme=github-dark-blue" alt="GitHub Streak" />
 </a>
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pragnyanramtha&bg_color=000000&color=4c6c9e&line=0033ff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
