@@ -1,16 +1,16 @@
 # 👋 This is Pragnyan Ramtha
 <!--& the only reason hey there is no yt tttt in the middle of the day of the day of the day of the day of the day of the day of the day of the day of the day of the year of God bless u all e day of the day of the day of the day of the year again and I will always bless u all with good night friends with anyone of you to m--->
 
-🧠 17 y/o endlessly curious learner | Builder of futuristic tech  
+🧠 17 y/o experimenting with weird stuff 
 🧩 I thrive at the edge of AI, math, and physics  
 🧬 Currently building:
-  - 🌐 A social platform on ICP blockchain  
-  - 🧠 A graph neural network on knowledge graphs  
-  - 🧬 A blt latent transformer  
-  - 🤖 A personality-cloning AI that adapts to users  
+  - 🌐 Autopilot - Operating System level Automation with AI
+  - 🧠 Custom AI Maker - An No-Code open-source way to build LangChain applications 
+  - 🧬 Six-axis-studios - Full stack application for a business 
+  - 🤖 My own Personality clone   
 
 📚 Love deep research, self-learning, and questioning everything  
-⚙️ Linux enthusiast | Pythonic thinker | Minimalist coder
+⚙️ Linux enthusiast | Extreme Ricer | Minimalist coder
 🚀 Always building, breaking, and reimagining what's possible  
 🎯 Mission: Turn curiosity into innovation that matters
 
