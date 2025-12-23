@@ -1,22 +1,47 @@
 # 👋 This is Pragnyan Ramtha
 <!--& the only reason hey there is no yt tttt in the middle of the day of the day of the day of the day of the day of the day of the day of the day of the day of the year of God bless u all e day of the day of the day of the day of the year again and I will always bless u all with good night friends with anyone of you to m--->
 
-🧠 17 y/o experimenting with weird stuff 
-🧩 I thrive at the edge of AI, math, and physics  
-🧬 Currently building:
-  - 🌐 Autopilot - Operating System level Automation with AI
-  - 🧠 Custom AI Maker - An No-Code open-source way to build LangChain applications 
-  - 🧬 Six-axis-studios - Full stack application for a business 
-  - 🤖 My own Personality clone   
+17 y/o AI Research Scientist | Bridging the Gap between AI and AGI. 
 
-📚 Love deep research, self-learning, and questioning everything  
-⚙️ Linux enthusiast | Extreme Ricer | Minimalist coder
-🚀 Always building, breaking, and reimagining what's possible  
-🎯 Mission: Turn curiosity into innovation that matters
-
-💡 Let’s connect, collaborate, or just nerd out together!
+I am an AI Research Scientist specializing in large language model fine-tuning, with expertise in Machine Learning and advanced pure mathematics across core areas of Artificial Intelligence.
 
 
+### 🧬 Currently Engineering
+
+- **[AIMO-3](https://www.google.com/search?q=https://github.com/your-repo/aimo3):** Fine-tuning **Phi-4 (14B)** on CoT and TiR datasets to rival 70B models in mathematical reasoning. 
+
+- **[Autopilot](https://www.google.com/search?q=https://github.com/your-repo/autopilot):** Agentic OS automation leveraging function calling and command sandboxing for low-level execution. 
+
+- **[Linguistic Style Transfer](https://www.google.com/search?q=https://github.com/your-repo/personality-clone):** Implementing Siamese networks and contrastive learning to replicate personal response styles with 92% accuracy. 
+
+
+
+### 🛠️ The Stack
+- **Languages:** Python (Advanced), C, TypeScript, Bash. 
+
+- **Deep Learning:** PyTorch, Transformers, Unsloth, CUDA, PEFT/QLoRA. 
+
+- **Infrastructure:** GCP (Cloud Functions/Run), Azure, Docker, Arch Linux. 
+
+- **Agentic AI:** RAG Pipelines, Tool-use Paradigms, ReAct Frameworks. 
+
+### 🏆 Proof of Work
+
+- **IEEE Summer of Code (SoC) 2025 Winner:** Contributed critical infrastructure to 25+ open-source ecosystems. 
+
+- **AI Engineering Intern @ Reputation-DAO:** Architected GCP serverless backends and reduced inference latency by 50%. 
+
+- **Top 0.5% in Shell AI Hackathon:** Solved global-scale optimization challenges. 
+
+### ⚙️ Systems & Philosophy
+
+> **Linux Enthusiast | Extreme Ricer | Minimalist programmer**
+> I build for performance and ship for impact. Always building, breaking, and reimagining what’s possible with the terminal and a GPU.
+
+**Let’s connect, collaborate, or just nerd out about loss functions.**
+**[Portfolio](https://pragnyanramtha.xyz)** • **[LinkedIn](https://linkedin.com)** • **[Resume](mailto:pragnyanramtha@gmail.com)**
+
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=170 src="https://github-readme-stats.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=transparent" />
