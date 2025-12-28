@@ -1,9 +1,9 @@
 # 👋 This is Pragnyan Ramtha
 <!--& the only reason hey there is no yt tttt in the middle of the day of the day of the day of the day of the day of the day of the day of the day of the day of the year of God bless u all e day of the day of the day of the day of the year again and I will always bless u all with good night friends with anyone of you to m--->
 
-17 y/o AI Research Scientist | Bridging the Gap between AI and AGI. 
+17 y/o AI Researcher | Bridging the Gap between AI and AGI. 
 
-I am an AI Research Scientist specializing in large language model fine-tuning, with expertise in Machine Learning and advanced pure mathematics across core areas of Artificial Intelligence.
+I specialize in large language model fine-tuning, with expertise in Machine Learning and advanced pure mathematics across core areas of Artificial Intelligence.
 
 
 ### 🧬 Currently Engineering
