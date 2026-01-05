@@ -1,5 +1,4 @@
 # 👋 This is Pragnyan Ramtha
-<!--& the only reason hey there is no yt tttt in the middle of the day of the day of the day of the day of the day of the day of the day of the day of the day of the year of God bless u all e day of the day of the day of the day of the year again and I will always bless u all with good night friends with anyone of you to m--->
 
 17 y/o AI Researcher | Bridging the Gap between AI and AGI. 
 
@@ -44,7 +43,7 @@ I specialize in large language model fine-tuning, with expertise in Machine Lear
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 src="https://github-readme-stats.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=transparent" />
+  <img height=170 src="https://github-readme-stats-theta-fawn-44.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=transparent" />
 </a>
 
 <a href="https://git.io/streak-stats">
