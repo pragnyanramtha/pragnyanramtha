@@ -43,7 +43,7 @@ I specialize in large language model fine-tuning, with expertise in Machine Lear
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 src="https://github-readme-stats-theta-fawn-44.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=transparent" />
+  <img height=170 src="https://github-readme-stats-eight.vercel.app/api?username=pragnyanramtha&show_icons=true&theme=transparent" />
 </a>
 
 <a href="https://git.io/streak-stats">
