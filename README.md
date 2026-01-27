@@ -7,11 +7,11 @@ I specialize in large language model fine-tuning, with expertise in Machine Lear
 
 ### 🧬 Currently Engineering
 
-- **[AIMO-3](https://www.google.com/search?q=https://github.com/your-repo/aimo3):** Fine-tuning **Phi-4 (14B)** on CoT and TiR datasets to rival 70B models in mathematical reasoning. 
+- **[AIMO-3](https://www.google.com/search?q=https://github.com/pragnyanramtha/aimo3):** Fine-tuning **Phi-4 (14B)** on CoT and TiR datasets to rival 70B models in mathematical reasoning. 
 
-- **[Autopilot](https://www.google.com/search?q=https://github.com/your-repo/autopilot):** Agentic OS automation leveraging function calling and command sandboxing for low-level execution. 
+- **[Autopilot](https://www.google.com/search?q=https://github.com/pragnyanramtha/autopilot):** Agentic OS automation leveraging function calling and command sandboxing for low-level execution. 
 
-- **[Linguistic Style Transfer](https://www.google.com/search?q=https://github.com/your-repo/personality-clone):** Implementing Siamese networks and contrastive learning to replicate personal response styles with 92% accuracy. 
+- **[Linguistic Style Transfer](https://www.google.com/search?q=https://github.com/pragnyanramtha/personality-clone):** Implementing Siamese networks and contrastive learning to replicate personal response styles with 92% accuracy. 
 
 
 
