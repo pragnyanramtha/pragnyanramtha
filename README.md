@@ -25,9 +25,34 @@ I specialize in **LLM fine-tuning** (PEFT/QLoRA), **autonomous AI agent** system
 
 ### Open Source Contributions
 
-**70+ merged PRs** across the AI/ML ecosystem — contributing to projects that power real workflows:
+19 merged PRs across the AI/ML ecosystem — bug fixes, correctness patches, and security hardening for production frameworks.
 
-[openai-node](https://github.com/openai/openai-node/pull/1885) • [langgraphjs](https://github.com/langchain-ai/langgraphjs/pull/2409) • [pydantic-ai](https://github.com/pydantic/pydantic-ai/pull/720) • [promptfoo](https://github.com/promptfoo/promptfoo/pull/9255) • [haystack](https://github.com/deepset-ai/haystack/pull/11330) • [mem0](https://github.com/mem0ai/mem0/pull/5170) • [chainlit](https://github.com/Chainlit/chainlit/pull/2927) • [agno](https://github.com/agno-agi/agno/pull/7948) • [fastmcp](https://github.com/PrefectHQ/fastmcp/pull/4164) • [dify-plugins](https://github.com/langgenius/dify-plugins/pulls?q=is%3Apr+author%3Apragnyanramtha+is%3Amerged) • [dstack](https://github.com/dstackai/dstack/pull/3885) • [opik](https://github.com/comet-ml/opik/pull/6735) • [mastra](https://github.com/mastra-ai/mastra/pull/5098) • [Gemini CLI](https://github.com/pragnyanramtha) • [Scrapy](https://github.com/pragnyanramtha) |
+| Repo | PR | What I Fixed | Branch |
+|------|----|-------------|--------|
+| [**openai-node**](https://github.com/openai/openai-node/pull/1885) | `fix: validate workload identity access tokens` | Malformed token exchange responses were cached and returned `undefined`, producing invalid bearer tokens downstream | `codex/validate-workload-access-token` |
+| [**langgraphjs**](https://github.com/langchain-ai/langgraphjs/pull/2409) | `fix: preserve non-plain Send args` | `Set`, `Map`, `Date`, and custom class instances were flattened into plain objects when passed through `Send`/`Command` | `pragnyan/fix-send-non-plain-objects` |
+| [**gemini-cli**](https://github.com/google-gemini/gemini-cli/pull/279) | `Refactor: Enhance @-command, Autocomplete, and Input Stability` | `@`-command trigger errors, broken Tab autocomplete, ESC blocking Enter, and up-arrow navigation between suggestions vs history | `adh/bugfix/input` |
+| [**promptfoo**](https://github.com/promptfoo/promptfoo/pull/9255) | `fix: isolate loadFunction cache entries` | `loadFunction` returned stale functions when the same filename was loaded from different `basePath` values due to broken cache keys | `fix/load-function-cache-key` |
+| [**haystack**](https://github.com/deepset-ai/haystack/pull/11330) | `fix: avoid mutating Document.from_dict input` | `Document.from_dict()` mutated the caller's dictionary — broke downstream reuse of serialized document data | `codex/document-from-dict-copy-input` |
+| [**mem0**](https://github.com/mem0ai/mem0/pull/5170) | `fix(ts): request float OpenAI embeddings` | TypeScript embedder didn't specify `encoding_format: "float"`, causing OpenAI-compatible proxies to return wrong-dimension vectors | `codex/fix-openai-embedder-float-encoding` |
+| [**chainlit**](https://github.com/Chainlit/chainlit/pull/2927) | `fix(socket): handle missing user env` | Missing `userEnv` payload caused `NameError`/`UnboundLocalError` instead of a proper `ConnectionRefusedError` | `codex/fix-load-user-env-none` |
+| [**agno**](https://github.com/agno-agi/agno/pull/7948) | `[fix] Resolve N1N model strings` | `Agent(model="n1n:gpt-4o")` failed — missing provider mapping for the N1N provider in `get_model()` | `codex/n1n-model-string` |
+| [**fastmcp**](https://github.com/PrefectHQ/fastmcp/pull/4164) | `fix(config): read MCP config files as UTF-8` | MCP config values with Unicode broke on Windows — `Path.read_text()` defaulted to cp1252 instead of UTF-8 | `codex/mcp-config-utf8-io` |
+| [**dstack**](https://github.com/dstackai/dstack/pull/3885) | `Reject negative retry durations` | Negative values like `-1` parsed successfully for retry duration, creating nonsensical retry specs | `codex/reject-negative-retry-duration` |
+| [**opik**](https://github.com/comet-ml/opik/pull/6735) | `fix: preserve StartSpanParameters when merging opik_args` | Span-level `opik_args` merging dropped trace-derived fields (`environment`, `thread_id`) by rebuilding the dataclass from a fixed subset | `pragnyanramtha/NA-preserve-opik-args-environment` |
+| [**mastra**](https://github.com/mastra-ai/mastra/pull/5098) | `Fix: inputData should load from snapshot` | After workflow resume, `inputData` was set from the resume payload instead of the original input stored in the snapshot | `patch-1` |
+| [**pydantic-ai**](https://github.com/pydantic/pydantic-ai/pull/809) | `Various docs improvements` | Clarified httpx monitoring in troubleshooting, fixed model messages docs, improved formatting across docs site | `general-docs-improvements` |
+
+**6 Dify Plugins** — built and merged 6 new plugins under IEEE Summer of Code:
+
+| Plugin | What It Does |
+|--------|-------------|
+| [**Deep Research**](https://github.com/langgenius/dify-plugins/pull/737) | Multi-source research with synthesis |
+| [**Animo Visuals**](https://github.com/langgenius/dify-plugins/pull/788) | Visual content generation |
+| [**Drug Research**](https://github.com/langgenius/dify-plugins/pull/791) | Pharmaceutical research tool |
+| [**Legal Clause Research**](https://github.com/langgenius/dify-plugins/pull/792) | Legal document analysis |
+| [**Stock Research**](https://github.com/langgenius/dify-plugins/pull/794) | Financial market research |
+| [**Google Books Explorer**](https://github.com/langgenius/dify-plugins/pull/804) | Book search and discovery |
 
 ---
 
