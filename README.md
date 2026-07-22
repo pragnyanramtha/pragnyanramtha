@@ -13,7 +13,7 @@ I build autonomous AI agents and fine-tune LLMs to ship production systems. 18 y
 
 ### Projects
 
-|---|---|---|
+| | | |
 | **[Agent7](https://agent7.dev)** | No-code AI agent platform — 1,000+ app connectors, 20,000+ tools, autonomous sessions for hours to days | Next.js, TypeScript |
 | **[Personality Clone](https://huggingface.co/pragnyanramtha/pragnyan-clone)** | LLM style emulation via siamese networks + contrastive learning — **92% accuracy**, 28% over baseline | TensorFlow, QLoRA, CUDA |
 | **[Parameter Golf](https://pragnyanramtha.dev/blogs/why-openai-sent-me-500-dollars-parameter-golf)** | 1.1271 BPB on 16MB model using XSA4 + EMA + GPTQ-Int6 | Python, Transformers |
