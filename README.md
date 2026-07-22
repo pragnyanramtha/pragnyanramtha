@@ -23,36 +23,124 @@ I specialize in **LLM fine-tuning** (PEFT/QLoRA), **autonomous AI agent** system
 
 ---
 
-### Open Source Contributions
+### Open Source
 
-19 merged PRs across the AI/ML ecosystem — bug fixes, correctness patches, and security hardening for production frameworks.
+19 merged PRs — bug fixes, correctness patches, and security hardening for production AI frameworks.
 
-| Repo | PR | What I Fixed | Branch |
-|------|----|-------------|--------|
-| [**openai-node**](https://github.com/openai/openai-node/pull/1885) | `fix: validate workload identity access tokens` | Malformed token exchange responses were cached and returned `undefined`, producing invalid bearer tokens downstream | `codex/validate-workload-access-token` |
-| [**langgraphjs**](https://github.com/langchain-ai/langgraphjs/pull/2409) | `fix: preserve non-plain Send args` | `Set`, `Map`, `Date`, and custom class instances were flattened into plain objects when passed through `Send`/`Command` | `pragnyan/fix-send-non-plain-objects` |
-| [**gemini-cli**](https://github.com/google-gemini/gemini-cli/pull/279) | `Refactor: Enhance @-command, Autocomplete, and Input Stability` | `@`-command trigger errors, broken Tab autocomplete, ESC blocking Enter, and up-arrow navigation between suggestions vs history | `adh/bugfix/input` |
-| [**promptfoo**](https://github.com/promptfoo/promptfoo/pull/9255) | `fix: isolate loadFunction cache entries` | `loadFunction` returned stale functions when the same filename was loaded from different `basePath` values due to broken cache keys | `fix/load-function-cache-key` |
-| [**haystack**](https://github.com/deepset-ai/haystack/pull/11330) | `fix: avoid mutating Document.from_dict input` | `Document.from_dict()` mutated the caller's dictionary — broke downstream reuse of serialized document data | `codex/document-from-dict-copy-input` |
-| [**mem0**](https://github.com/mem0ai/mem0/pull/5170) | `fix(ts): request float OpenAI embeddings` | TypeScript embedder didn't specify `encoding_format: "float"`, causing OpenAI-compatible proxies to return wrong-dimension vectors | `codex/fix-openai-embedder-float-encoding` |
-| [**chainlit**](https://github.com/Chainlit/chainlit/pull/2927) | `fix(socket): handle missing user env` | Missing `userEnv` payload caused `NameError`/`UnboundLocalError` instead of a proper `ConnectionRefusedError` | `codex/fix-load-user-env-none` |
-| [**agno**](https://github.com/agno-agi/agno/pull/7948) | `[fix] Resolve N1N model strings` | `Agent(model="n1n:gpt-4o")` failed — missing provider mapping for the N1N provider in `get_model()` | `codex/n1n-model-string` |
-| [**fastmcp**](https://github.com/PrefectHQ/fastmcp/pull/4164) | `fix(config): read MCP config files as UTF-8` | MCP config values with Unicode broke on Windows — `Path.read_text()` defaulted to cp1252 instead of UTF-8 | `codex/mcp-config-utf8-io` |
-| [**dstack**](https://github.com/dstackai/dstack/pull/3885) | `Reject negative retry durations` | Negative values like `-1` parsed successfully for retry duration, creating nonsensical retry specs | `codex/reject-negative-retry-duration` |
-| [**opik**](https://github.com/comet-ml/opik/pull/6735) | `fix: preserve StartSpanParameters when merging opik_args` | Span-level `opik_args` merging dropped trace-derived fields (`environment`, `thread_id`) by rebuilding the dataclass from a fixed subset | `pragnyanramtha/NA-preserve-opik-args-environment` |
-| [**mastra**](https://github.com/mastra-ai/mastra/pull/5098) | `Fix: inputData should load from snapshot` | After workflow resume, `inputData` was set from the resume payload instead of the original input stored in the snapshot | `patch-1` |
-| [**pydantic-ai**](https://github.com/pydantic/pydantic-ai/pull/809) | `Various docs improvements` | Clarified httpx monitoring in troubleshooting, fixed model messages docs, improved formatting across docs site | `general-docs-improvements` |
-
-**6 Dify Plugins** — built and merged 6 new plugins under IEEE Summer of Code:
-
-| Plugin | What It Does |
-|--------|-------------|
-| [**Deep Research**](https://github.com/langgenius/dify-plugins/pull/737) | Multi-source research with synthesis |
-| [**Animo Visuals**](https://github.com/langgenius/dify-plugins/pull/788) | Visual content generation |
-| [**Drug Research**](https://github.com/langgenius/dify-plugins/pull/791) | Pharmaceutical research tool |
-| [**Legal Clause Research**](https://github.com/langgenius/dify-plugins/pull/792) | Legal document analysis |
-| [**Stock Research**](https://github.com/langgenius/dify-plugins/pull/794) | Financial market research |
-| [**Google Books Explorer**](https://github.com/langgenius/dify-plugins/pull/804) | Book search and discovery |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/openai/openai-node/pull/1885">
+        <img src="https://img.shields.io/badge/openai--node-412991?style=flat-square&logo=openai&logoColor=white" /><br/>
+        <b>validate workload identity tokens</b>
+      </a><br/>
+      <sub>Malformed token exchange responses cached and returned <code>undefined</code>, producing invalid bearer tokens</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/langchain-ai/langgraphjs/pull/2409">
+        <img src="https://img.shields.io/badge/langgraphjs-0033ff?style=flat-square&logo=chainlink&logoColor=white" /><br/>
+        <b>preserve non-plain Send args</b>
+      </a><br/>
+      <sub><code>Set</code>, <code>Map</code>, <code>Date</code>, and custom classes flattened into plain objects during <code>Send</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/google-gemini/gemini-cli/pull/279">
+        <img src="https://img.shields.io/badge/gemini--cli-4285f4?style=flat-square&logo=google&logoColor=white" /><br/>
+        <b>@-command stability & autocomplete</b>
+      </a><br/>
+      <sub>Trigger errors, broken Tab, ESC blocking Enter, up-arrow navigation bugs</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/promptfoo/promptfoo/pull/9255">
+        <img src="https://img.shields.io/badge/promptfoo-2b5797?style=flat-square&logo=promptfoo&logoColor=white" /><br/>
+        <b>isolate loadFunction cache entries</b>
+      </a><br/>
+      <sub>Same filename from different <code>basePath</code> returned stale cached function</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/deepset-ai/haystack/pull/11330">
+        <img src="https://img.shields.io/badge/haystack-1b7cff?style=flat-square" /><br/>
+        <b>stop mutating Document.from_dict input</b>
+      </a><br/>
+      <sub>Deserialization mutated caller's dictionary, breaking downstream reuse</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mem0ai/mem0/pull/5170">
+        <img src="https://img.shields.io/badge/mem0-3d3d3d?style=flat-square&logo=mem0&logoColor=white" /><br/>
+        <b>request float OpenAI embeddings</b>
+      </a><br/>
+      <sub>Missing <code>encoding_format</code> caused proxies to return wrong-dimension vectors</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Chainlit/chainlit/pull/2927">
+        <img src="https://img.shields.io/badge/chainlit-d9a7ff?style=flat-square" /><br/>
+        <b>handle missing user env</b>
+      </a><br/>
+      <sub>Missing <code>userEnv</code> crashed with <code>NameError</code> instead of proper connection refusal</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/agno-agi/agno/pull/7948">
+        <img src="https://img.shields.io/badge/agno-21C46C?style=flat-square" /><br/>
+        <b>resolve N1N model strings</b>
+      </a><br/>
+      <sub><code>Agent(model="n1n:gpt-4o")</code> failed — missing provider mapping</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/PrefectHQ/fastmcp/pull/4164">
+        <img src="https://img.shields.io/badge/fastmcp-051525?style=flat-square" /><br/>
+        <b>UTF-8 MCP config I/O</b>
+      </a><br/>
+      <sub>Unicode config values broke on Windows — defaulted to cp1252</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/dstackai/dstack/pull/3885">
+        <img src="https://img.shields.io/badge/dstack-3b82f6?style=flat-square" /><br/>
+        <b>reject negative retry durations</b>
+      </a><br/>
+      <sub>Negative values parsed successfully, creating nonsensical retry specs</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/comet-ml/opik/pull/6735">
+        <img src="https://img.shields.io/badge/opik-000000?style=flat-square&logo=comet&logoColor=white" /><br/>
+        <b>preserve StartSpanParameters</b>
+      </a><br/>
+      <sub>Span-level merge dropped <code>environment</code> and <code>thread_id</code> from trace config</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mastra-ai/mastra/pull/5098">
+        <img src="https://img.shields.io/badge/mastra-333?style=flat-square" /><br/>
+        <b>load inputData from snapshot</b>
+      </a><br/>
+      <sub>After resume, input was set from resume payload instead of original snapshot</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/pydantic/pydantic-ai/pull/809">
+        <img src="https://img.shields.io/badge/pydantic--ai-2e9e5b?style=flat-square&logo=python&logoColor=white" /><br/>
+        <b>docs improvements</b>
+      </a><br/>
+      <sub>httpx monitoring notes, model messages clarity, formatting fixes</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/langgenius/dify-plugins/pulls?q=is%3Apr+author%3Apragnyanramtha+is%3Amerged">
+        <img src="https://img.shields.io/badge/dify--plugins-5b6eff?style=flat-square&logo=dify&logoColor=white" /><br/>
+        <b>6 new plugins — IEEE Summer of Code</b>
+      </a><br/>
+      <sub>Deep Research · Animo Visuals · Drug Research · Legal Clauses · Stock Research · Google Books</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
