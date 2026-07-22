@@ -2,7 +2,7 @@
 
 **18-year-old AI Engineer** — building autonomous AI agents and fine-tuning LLMs to ship production systems.
 
-Founder of **[Agent7](https://agent7.dev)** • Prev. **#1 on ARC-AGI** • **AIMO-3 Solver Medalist** • **Top 5, OpenAI Parameter Golf**
+Founder of **[Agent7](https://agent7.dev)** • Prev. **#1 on ARC-AGI**
 
 ---
 
@@ -17,8 +17,8 @@ I specialize in **LLM fine-tuning** (PEFT/QLoRA), **autonomous AI agent** system
 | Project | What It Is | Tech |
 |---------|-----------|------|
 | **[Agent7](https://agent7.dev)** | No-code AI agent platform — connects 1,000+ apps, orchestrates 20,000+ tools, runs autonomous sessions for hours to days | Next.js, TypeScript, AI Agents |
-| **[AIMO-3 Reasoning](https://huggingface.co/pragnyanramtha/phi-4-math-rplus)** | Fine-tuned Phi-4 (14B) to **90% accuracy** on mathematical reasoning benchmarks, rivaling 125B models | Phi-4, PEFT, CoT/TiR |
 | **[Personality Clone](https://huggingface.co/pragnyanramtha/pragnyan-clone)** | LLM style emulation via siamese networks + contrastive learning — **92% accuracy**, 28% over baseline | TensorFlow, QLoRA, CUDA |
+| **[Parameter Golf](https://pragnyanramtha.dev/blogs/why-openai-sent-me-500-dollars-parameter-golf)** | Achieved 1.1271 BPB on 16MB model using XSA4 + EMA + GPTQ-Int6 | Python, Transformers, Quantization |
 | **[Autopilot](https://github.com/pragnyanramtha/autopilot)** | AI-driven OS automation with ReAct agent framework and command sandboxing | Python, LLM Agents |
 
 ---
@@ -147,8 +147,6 @@ I specialize in **LLM fine-tuning** (PEFT/QLoRA), **autonomous AI agent** system
 ### Achievements
 
 - 🥇 **#1 on ARC-AGI Public Leaderboard** — Test-Time Training for fluid intelligence benchmarks
-- 🏅 **AIMO-3 Solver Medalist** — $2.2M Kaggle competition, 90% accuracy on IMO-level problems
-- 🏆 **Top 5, OpenAI Parameter Golf** — 1.1271 BPB on 16MB model using XSA4 + EMA + GPTQ-Int6
 - 🥇 **Winner, NIAT RAG Challenge**
 - 🏆 **Winner, IEEE Summer of Code 2025**
 - 🏆 **Winner, Empathy Encryption Hackathon 2025**
@@ -188,7 +186,7 @@ Dev Tools:    Neovim · uv
 
 ### Education
 
-**B.E. Computer Science & Design** — MRV University (GPA 9.0/10, Top 3 rank)
+**B.Tech Computer Science (Data Science)** — NIAT/MRV University
 Machine Learning Specialization (Stanford) • CS50 (Harvard)
 
 ---
@@ -199,7 +197,6 @@ I blog about AI engineering decisions, model training, and what actually works i
 
 - [Why OpenAI Sent Me $500 (Parameter Golf)](https://pragnyanramtha.dev/blogs/why-openai-sent-me-500-dollars-parameter-golf)
 - [How I Reached #1 on ARC-AGI-2](https://pragnyanramtha.dev/blogs/how-i-reached-number-1-on-arc-agi-2)
-- [How I Won a Solver Medal at AIMO3](https://pragnyanramtha.dev/blogs/how-i-won-a-solver-medal-at-aimo3)
 - [Fine-Tuning Smaller Models for Reasoning](https://pragnyanramtha.dev/blogs/what-fine-tuning-smaller-models-taught-me-about-reasoning)
 
 ---
