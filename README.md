@@ -11,12 +11,6 @@ I build autonomous AI agents and fine-tune LLMs to ship production systems. 18 y
 
 ---
 
-### What I Work On
-
-LLM fine-tuning (PEFT/QLoRA) · Autonomous AI agent systems · Model compression (GPTQ, mixed-precision). I build AI that runs long autonomous sessions, solves competition-grade math, and fits inside 16MB.
-
----
-
 ### Projects
 
 | | | |
@@ -51,7 +45,9 @@ LLM fine-tuning (PEFT/QLoRA) · Autonomous AI agent systems · Model compression
 ### Awards
 
 🥇 **#1 on ARC-AGI Public Leaderboard** — Test-Time Training for fluid intelligence benchmarks
+
 🏆 **Winner, IEEE Summer of Code 2025** · **Winner, NIAT RAG Challenge** · **Winner, Empathy Encryption Hackathon** · **Winner, Daydream Hyderabad**
+
 🏅 **Top 0.5% Finalist, Shell AI Hackathon 2025** · **Finalist, Smallest AI × IIT G**
 
 ---
