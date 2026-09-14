@@ -1,10 +1,10 @@
 # Pragnyan Ramtha
 
-**AI Engineer · Founder of [Agent7](https://agent7.dev) · 35 merged open source PRs**
+**AI Engineer · 50+ merged open source PRs**
 
 I build autonomous AI agents and fine-tune LLMs for production. Previously **#1 on ARC-AGI**.
 
-**Currently:** Agent7 + cost-efficient reasoning
+**Currently:** Ai Researcher @ Parsewave.ai
 
 **Skills:** Agents · Fine-tuning / QLoRA · RAG · Next.js / TypeScript · Python / Transformers
 
