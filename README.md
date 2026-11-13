@@ -27,7 +27,7 @@ I build autonomous AI agents and fine-tune LLMs for production. Previously **#1 
 
 ### Open Source
 
-**35 merged PRs** across AI/ML frameworks — correctness, security, and production hardening. Full list: [github.com/pragnyanramtha](https://github.com/pragnyanramtha)
+**50+ merged PRs** across AI/ML frameworks — correctness, security, and production hardening. The full list is [is here](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Apragnyanramtha+-user%3Apragnyanramtha+is%3Apublic&type=pullrequests&p=3)
 
 | PR | Impact |
 |---|---|
